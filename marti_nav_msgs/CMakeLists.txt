@@ -29,6 +29,8 @@ add_message_files(FILES
   RouteSpeed.msg
   RouteSpeedArray.msg
   TeleopState.msg
+  TrackedObject.msg
+  TrackedObjectArray.msg
   VehicleControl.msg
 )
 
